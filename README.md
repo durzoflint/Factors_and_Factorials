@@ -15,7 +15,7 @@ Input will consist of a series of lines, each line containing a single integer N
 
 Output
 
-Output will consist of a series of blocks of lines, one block for each line of the input. Each block will start with the number N, right justified in a field of width 3, and the characters `!', space, and `='. This will be followed by a list of the number of times each prime number occurs in N!. 
+Output will consist of a series of blocks of lines, one block for each line of the input. Each block will start with the number N, right justified in a field of width 3, and the characters '!', space, and '='. This will be followed by a list of the number of times each prime number occurs in N!. 
 
 These should be right justified in fields of width 3 and each line (except the last of a block, which may be shorter) should contain fifteen numbers. Any lines after the first should be indented. Follow the layout of the example shown below exactly. 
 
